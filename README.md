@@ -1,6 +1,6 @@
 # tron-zsh-theme
 
-A custom ZSH theme
+A custom ZSH theme.
 
 ## Show
 

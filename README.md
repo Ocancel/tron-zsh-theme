@@ -19,7 +19,7 @@ A custom ZSH theme.
 
 ## Install
 
-Move the `tron.zsh-theme` file to the `~/.oh-my-zsh/custom/themes/` directory and set the theme to `ZSH_THEME="tron"` in the ~/.zshrc file. 
+Move the `tron.zsh-theme` file to the `~/.oh-my-zsh/custom/themes/` directory and set the theme to `ZSH_THEME="tron"` in the `~/.zshrc` file. 
 
 ## Configure
 

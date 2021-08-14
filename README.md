@@ -27,3 +27,6 @@ You can set the theme style in the first line of this `tron.zsh-theme` file.
 
 Set `THEME="Normal"` to `Normal` or `Background`. 
 
+## LICENSE
+
+[MIT License](LICENSE)
